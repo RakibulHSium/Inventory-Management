@@ -1,5 +1,6 @@
 # InventoryManagement
-Inventory Management System developed for a client. 
+Inventory Management System developed for J2EE Architecture and development course and for a client. 
+
 
 # Screenshots
 ![Login page](https://user-images.githubusercontent.com/4330756/115964938-5adc6e00-a559-11eb-8753-4400225ff6a9.png)
